@@ -1,2 +1,2 @@
-# My-ite
+# My-Site
 My own live site
